@@ -35,3 +35,31 @@ html{
 #vw{
     width:60vw;
 }
+
+#vh{
+    width:60vh;
+}
+
+#vmin{
+    width:60vmin;
+}
+
+#vmax{
+    width:60vmax;
+}
+
+#inch{
+    width: 4in;
+}
+
+#cm{
+    width: 20cm;
+}
+
+#mm{
+    width: 200mm;
+}
+
+#pt{
+    width: 120pt;
+}
